@@ -8,8 +8,8 @@ import { RouterView } from 'vue-router'
   </header>
   <nav>
     <router-link to='/'>Inicio</router-link> | 
-    <router-link to='/apexchart'>Apexchart</router-link> | 
-    <router-link to='/vuechart'>Vuechart</router-link>
+    <router-link to='/apexchart'>ApexChart</router-link> | 
+    <router-link to='/highchart'>HighChart</router-link>
   </nav>
   <RouterView />
 
